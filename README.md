@@ -77,7 +77,7 @@ The-Hungry-Base/
 └── package.json
 🔌 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/the-hungry-base.git
+git clone https://github.com/beautymaji/Food-Order-System-MERN-Stack
 2️⃣ Install Dependencies
 
 For Backend:
